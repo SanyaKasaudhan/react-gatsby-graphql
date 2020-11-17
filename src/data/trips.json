@@ -6,21 +6,21 @@
         "button": "View Destination"
     },
     {
-        "img": "../assets/images/tra1.jpeg",
-        "alt": "Travelling place",
-        "name": "Most travlled place",
+        "img": "../assets/images/tra2.jpeg",
+        "alt": "Historic place",
+        "name": "Historic place",
         "button": "View Destination"
     },
     {
-        "img": "../assets/images/tra1.jpeg",
-        "alt": "Travelling place",
-        "name": "Most travlled place",
+        "img": "../assets/images/tra3.jpeg",
+        "alt": "Travel place",
+        "name": "Most exciting place",
         "button": "View Destination"
     },
     {
-        "img": "../assets/images/tra1.jpeg",
-        "alt": "Travelling place",
-        "name": "Most travlled place",
+        "img": "../assets/images/tra4.jpeg",
+        "alt": "Tra place",
+        "name": "Most haunted place",
         "button": "View Destination"
     }
 ]

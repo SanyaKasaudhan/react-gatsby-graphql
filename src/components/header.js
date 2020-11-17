@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <div>
       <Nav>
-        <NavLink to="/">EXPLORIX</NavLink>
+        <NavLink to="/">EXPLORE INDIA</NavLink>
         <Bars />
         <NavMenu>
           {menuData.map((item,index)=>(

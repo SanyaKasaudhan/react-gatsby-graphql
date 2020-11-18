@@ -12,7 +12,7 @@ const Trips = () => {
                     edges{
                         node{
                             alt
-                            button
+                             button
                             name
                             img{
                                 childImageSharp{
@@ -99,6 +99,17 @@ height:500px;
 position:relative;
 border-radius:10px;
 transition:1.2s ease;
+
+`
+
+const ProductImg= styled.div
+`height:100%;
+max-width:100%;
+position:absolute;
+border-radius:10px;
+filter:brightness(70%);
+transition:0.4s cubic-beizer(0.75,0.82,0.165,1);
+
 
 `
 
